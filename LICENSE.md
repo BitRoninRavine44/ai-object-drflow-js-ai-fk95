@@ -1,4 +1,4 @@
-# 
+# مميز AI Object Detection with TensorFlow.js سمات. مع تصور البيانات و تحليل المشاعر — مُحسَّن لأقصى أداء.
 
 
 
